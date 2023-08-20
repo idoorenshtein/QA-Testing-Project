@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+    <!-- General -->
+    <WaitTime>10</WaitTime>
+    <ScreenshotPath>./allure-screen-shots/</ScreenshotPath>
+
+    <!-- Web -->
+    <Browser>Chrome</Browser>
+    <Url>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</Url>
+    <UserName>Admin</UserName>
+    <Password>admin123</Password>
+    <CSV_Location>./../ddt/employees.csv</CSV_Location>
+
+    <!-- Api -->
+    <Url_Api>http://localhost:3000/</Url_Api>
+    <UserName_Api>admin</UserName_Api>
+    <Password_Api>admin</Password_Api>
+
+    <!-- Mobile -->
+    <Mobile_Device>Android</Mobile_Device>
+    <Udid>RF8MB3BB2BY</Udid>
+    <App_Package>com.shivgadhia.android.ukMortgageCalc</App_Package>
+    <App_Activity>.MainActivity</App_Activity>
+    <Appium_Server>http://localhost:4730/wd/hub</Appium_Server>
+    <Bundle_id>com.shivgadhia.ukMortgageCalc</Bundle_id>
+    <Swipe_Duration>200</Swipe_Duration>
+
+    <!-- Electron -->
+    <Electron_App>C:/Users/Ido orenshtein/AppData/Local/Programs/todolist/Todolist.exe</Electron_App>
+    <Electron_Driver>C:/Automation/electrondriver.exe</Electron_Driver>
+
+    <!-- Desktop -->
+    <Application_Name>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</Application_Name>
+    <WinAppDriver_Service>http://127.0.0.1:4723</WinAppDriver_Service>
+
+    <!-- Database -->
+    <DB_Host>sql7.freemysqlhosting.net</DB_Host>
+    <DB_Name>sql7638405</DB_Name>
+    <DB_User>sql7638405</DB_User>
+    <DB_Pass>mkPDjXd4Vl</DB_Pass>
+</Enviroment>
