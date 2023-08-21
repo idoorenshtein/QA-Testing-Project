@@ -20,6 +20,3 @@ Overall e2e tests for web, desktop, application and database for this website: h
 
 ## Video
 
-
-https://github.com/idoorenshtein/QA-Testing-Project/assets/142547700/aae7ba4b-2f44-44f5-a892-30a95661eab3
-
