@@ -4,7 +4,7 @@
 Overall e2e tests for web, desktop, application and database for this website: https://www.orangehrm.com.
 
 ## Technologies
-- Selenium (version 3.141.0) - for desktop(WinAppDriver)/electron, (version 4.11.2) - for web/api(grafana sever)
+- Selenium (version 3.141.0) - for desktop(WinAppDriver)/electron/mobile(Appium Studio), (version 4.11.2) - for web/api(grafana sever)
 - Electron
 - Appium
 - SQL
