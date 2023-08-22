@@ -1,14 +1,31 @@
 # QA-Testing-Project
 
 ## Overview
-Overall e2e tests for web, desktop, application and database for this website: https://www.orangehrm.com.
+Web:
+Perform tests on this website: "https://www.orangehrm.com". Among the actions, you can see navigation to the site, create entries, checking them, and finally deletion.
+
+API:
+Perform tests on an API that connect to a Grafana website, creating a new group, updating it, and finally deleting it.
+
+Desktop:
+Perform tests on a calculator application (desktop application) that perform mathematical operations and verify them.
+
+Electron:
+Tests on an Electron application where I create tasks of interest and then delete them.
+
+Mobile:
+Tests on mobile using Appium Studio, in which I demonstrate work on a mobile application.
+
+Database (MySql):
+Web tests using a Database as a resource.
 
 ## Technologies
 - Selenium (version 3.141.0) - for desktop(WinAppDriver)/electron/mobile(Appium Studio), (version 4.11.2) - for web/api(grafana sever)
 - Electron
 - Appium
-- SQL
+- MYSQL
 - Python
+- REST API
 
 ## Getting started
 1. Clone the repo:  
