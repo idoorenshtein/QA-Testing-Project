@@ -38,6 +38,13 @@ Web tests using a Database as a resource.
 ## Video
 
 https://github.com/idoorenshtein/QA-Testing-Project/assets/142547700/b3f99afb-6baf-421b-8cd2-f99a651d1d33
+https://github.com/idoorenshtein/QA-Testing-Project/assets/142547700/4491b5b8-63f3-4312-8eb1-827f86d15229
+https://github.com/idoorenshtein/QA-Testing-Project/assets/142547700/b372dc4e-6276-4cbe-a726-0ab0fef0759f
+https://github.com/idoorenshtein/QA-Testing-Project/assets/142547700/9474ea13-08f6-4537-bbda-0fe57c07c1a8
+
+
+
+
 
 
 
